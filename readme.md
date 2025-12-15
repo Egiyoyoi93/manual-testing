@@ -1,24 +1,16 @@
-# PDF Manual — README
+README
 
-This directory is intended to contain the project PDF manual. Use this README to describe the PDF, how to open it, and any metadata or usage notes.
 
-## Recommended filename
-- Use a stable filename such as `project-manual.pdf` or `manual-v1.0.pdf`.
+- BisaInvest Manual Testing
+  
+- Title: Web and Mobile App Manual Testing
+- Author: Egiyoyoi93
+- Date: November 21 - April 22
+- Here, I conducted UAT for websites and mobile applications for three months, from November 21st to April 22nd, using manual testing. I created test cases and test plans with various scenarios. The test plan used two statuses to determine whether a feature passed or failed, as well as three indicators for retesting, depending on the feature: major, minor, and none.
 
-## Metadata to include (in the PDF or repo)
-- Title
-- Author
-- Version
-- Date
-- Short summary
 
-## How to open
-- macOS: `open project-manual.pdf`  
-- Linux: `xdg-open project-manual.pdf`  
-- Windows (PowerShell): `Start-Process project-manual.pdf`  
-- In VS Code: open [readme.md](readme.md) and then open the PDF file with the installed PDF viewer extension or the editor's preview.
+- Open [readme.md](readme.md) in VS Code and then open the PDF file with the installed PDF viewer extension or the editor's preview.
 
-## Versioning & updates
 - Keep each published PDF version under a distinct filename (e.g., `manual-v1.0.pdf`) or store versions in a `releases/` subfolder.
 - Add a short changelog entry in this README for each PDF update.
 
